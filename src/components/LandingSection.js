@@ -4,7 +4,7 @@ import FullScreenSection from "./FullScreenSection";
 import photo from '../images/me.jpg';
 
 const greeting = "Hello, I am Denis!";
-const bio1 = "A backend developer";
+const bio1 = "A full-stack developer";
 const bio2 = "specialised in cloud native applications";
 
 const LandingSection = () => (
